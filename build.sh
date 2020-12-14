@@ -6,10 +6,10 @@
 	cd files
 
 	wget -q \
-		"https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.4.83/amd64/linux-headers-5.4.83-050483-generic_5.4.83-050483.202012111336_amd64.deb" \
-		"https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.4.83/amd64/linux-headers-5.4.83-050483_5.4.83-050483.202012111336_all.deb" \
-		"https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.4.83/amd64/linux-image-unsigned-5.4.83-050483-generic_5.4.83-050483.202012111336_amd64.deb" \
-		"https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.4.83/amd64/linux-modules-5.4.83-050483-generic_5.4.83-050483.202012111336_amd64.deb"
+		"https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10/amd64/linux-headers-5.10.0-051000-generic_5.10.0-051000.202012132330_amd64.deb" \
+		"https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10/amd64/linux-headers-5.10.0-051000_5.10.0-051000.202012132330_all.deb" \
+		"https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10/amd64/linux-image-unsigned-5.10.0-051000-generic_5.10.0-051000.202012132330_amd64.deb" \
+		"https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10/amd64/linux-modules-5.10.0-051000-generic_5.10.0-051000.202012132330_amd64.deb"
 )
 
 
