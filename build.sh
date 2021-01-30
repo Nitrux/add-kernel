@@ -6,10 +6,8 @@
 	cd files
 
 	wget -q \
-		"https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.10/amd64/linux-headers-5.10.10-051010-generic_5.10.10-051010.202101231639_amd64.deb" \
-		"https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.10/amd64/linux-headers-5.10.10-051010_5.10.10-051010.202101231639_all.deb" \
-		"https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.10/amd64/linux-image-unsigned-5.10.10-051010-generic_5.10.10-051010.202101231639_amd64.deb" \
-		"https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.10/amd64/linux-modules-5.10.10-051010-generic_5.10.10-051010.202101231639_amd64.deb"
+		"http://deb.xanmod.org/pool/main/l/linux-5.10.12-xanmod1/linux-headers-5.10.12-xanmod1_5.10.12-xanmod1-0~git20210130.e805871_amd64.deb" \
+		"http://deb.xanmod.org/pool/main/l/linux-5.10.12-xanmod1/linux-image-5.10.12-xanmod1_5.10.12-xanmod1-0~git20210130.e805871_amd64.deb"
 )
 
 
