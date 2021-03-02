@@ -6,10 +6,8 @@
 	cd files
 
 	wget -q \
-		"https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.4.100/amd64/linux-headers-5.4.100-0504100-generic_5.4.100-0504100.202102231536_amd64.deb" \
-		"https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.4.100/amd64/linux-headers-5.4.100-0504100_5.4.100-0504100.202102231536_all.deb" \
-		"https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.4.100/amd64/linux-image-unsigned-5.4.100-0504100-generic_5.4.100-0504100.202102231536_amd64.deb" \
-		"https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.4.100/amd64/linux-modules-5.4.100-0504100-generic_5.4.100-0504100.202102231536_amd64.deb"
+		"https://linux-libre.fsfla.org/pub/linux-libre/freesh/pool/main/l/linux-5.10.19-gnu/linux-image-5.10.19-gnu_5.10.19-gnu-1.0_amd64.deb" \
+		"https://linux-libre.fsfla.org/pub/linux-libre/freesh/pool/main/l/linux-5.10.19-gnu/linux-headers-5.10.19-gnu_5.10.19-gnu-1.0_amd64.deb"
 )
 
 
