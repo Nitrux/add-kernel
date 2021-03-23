@@ -6,8 +6,8 @@
 	cd files
 
 	wget -q \
-		"https://linux-libre.fsfla.org/pub/linux-libre/freesh/pool/main/l/linux-5.11.2-gnu/linux-image-5.11.2-gnu_5.11.2-gnu-1.0_amd64.deb" \
-		"https://linux-libre.fsfla.org/pub/linux-libre/freesh/pool/main/l/linux-5.11.2-gnu/linux-headers-5.11.2-gnu_5.11.2-gnu-1.0_amd64.deb"
+		"https://linux-libre.fsfla.org/pub/linux-libre/freesh/pool/main/l/linux-5.11.8-gnu/linux-image-5.11.8-gnu_5.11.8-gnu-1.0_amd64.deb" \
+		"https://linux-libre.fsfla.org/pub/linux-libre/freesh/pool/main/l/linux-5.11.8-gnu/linux-headers-5.11.8-gnu_5.11.8-gnu-1.0_amd64.deb"
 )
 
 
