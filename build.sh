@@ -6,10 +6,10 @@
 	cd files
 
 	wget -q \
-		"https://launchpad.net/~damentz/+archive/ubuntu/liquorix/+files/linux-headers-5.11.0-8.1-liquorix-amd64_5.11-19ubuntu1~focal_amd64.deb" \
-		"https://launchpad.net/~damentz/+archive/ubuntu/liquorix/+files/linux-headers-liquorix-amd64_5.11-19ubuntu1~focal_amd64.deb" \
-		"https://launchpad.net/~damentz/+archive/ubuntu/liquorix/+files/linux-image-5.11.0-8.1-liquorix-amd64_5.11-19ubuntu1~focal_amd64.deb" \
-		"https://launchpad.net/~damentz/+archive/ubuntu/liquorix/+files/linux-image-liquorix-amd64_5.11-19ubuntu1~focal_amd64.deb"
+		"https://launchpad.net/~damentz/+archive/ubuntu/liquorix/+files/linux-headers-5.11.0-10.1-liquorix-amd64_5.11-21ubuntu1~focal_amd64.deb" \
+		"https://launchpad.net/~damentz/+archive/ubuntu/liquorix/+files/linux-headers-liquorix-amd64_5.11-21ubuntu1~focal_amd64.deb" \
+		"https://launchpad.net/~damentz/+archive/ubuntu/liquorix/+files/linux-image-5.11.0-10.1-liquorix-amd64_5.11-21ubuntu1~focal_amd64.deb" \
+		"https://launchpad.net/~damentz/+archive/ubuntu/liquorix/+files/linux-image-liquorix-amd64_5.11-21ubuntu1~focal_amd64.deb"
 )
 
 
