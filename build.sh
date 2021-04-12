@@ -6,10 +6,10 @@
 	cd files
 
 	wget -q \
-		"https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.4.108/amd64/linux-headers-5.4.108-0504108-generic_5.4.108-0504108.202103241155_amd64.deb" \
-		"https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.4.108/amd64/linux-headers-5.4.108-0504108_5.4.108-0504108.202103241155_all.deb" \
-		"https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.4.108/amd64/linux-image-unsigned-5.4.108-0504108-generic_5.4.108-0504108.202103241155_amd64.deb" \
-		"https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.4.108/amd64/linux-modules-5.4.108-0504108-generic_5.4.108-0504108.202103241155_amd64.deb"
+		"https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.4.111/amd64/linux-headers-5.4.111-0504111-generic_5.4.111-0504111.202104101234_amd64.deb" \
+		"https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.4.111/amd64/linux-headers-5.4.111-0504111_5.4.111-0504111.202104101234_all.deb" \
+		"https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.4.111/amd64/linux-image-unsigned-5.4.111-0504111-generic_5.4.111-0504111.202104101234_amd64.deb" \
+		"https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.4.111/amd64/linux-modules-5.4.111-0504111-generic_5.4.111-0504111.202104101234_amd64.deb"
 )
 
 
