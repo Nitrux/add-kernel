@@ -1,7 +1,5 @@
 #! /bin/sh
 
-set -xe
-
 # Add xanmod repo
 
 echo 'deb http://deb.xanmod.org releases main' | sudo tee /etc/apt/sources.list.d/xanmod-kernel.list
