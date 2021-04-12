@@ -1,10 +1,12 @@
 #! /bin/sh
 
+set -xe
+
 # Add xanmod repo
 
-echo 'deb http://deb.xanmod.org releases main' | sudo tee /etc/apt/sources.list.d/xanmod-kernel.list
-wget -qO - https://dl.xanmod.org/gpg.key | sudo apt-key --keyring /etc/apt/trusted.gpg.d/xanmod-kernel.gpg add -
-apt update
+echo 'deb http://deb.xanmod.org releases main' | tee /etc/apt/sources.list.d/xanmod-kernel.list
+wget -qO - https://dl.xanmod.org/gpg.key | apt-key --keyring /etc/apt/trusted.gpg.d/xanmod-kernel.gpg add -
+sudo apt update
 
 # Download files
 
@@ -13,7 +15,7 @@ apt update
 	cd files
 
 	apt download \
-		linux-headers-5.11.13-xanmod1
+		linux-headers-5.11.13-xanmod1 \
 		linux-image-5.11.13-xanmod1
 )
 
