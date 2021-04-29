@@ -13,8 +13,8 @@ sudo apt update
 	cd files
 
 	apt download \
-		linux-headers-5.11.13-xanmod1 \
-		linux-image-5.11.13-xanmod1
+		linux-headers-*-xanmod1 \
+		linux-image-*-xanmod1
 )
 
 
