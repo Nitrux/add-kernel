@@ -13,10 +13,10 @@ sudo apt update
 	cd files
 
 	apt download \
-		linux-headers-5.12.11-xanmod1 \
-		linux-image-5.12.11-xanmod1 \
-		linux-headers-5.12.11-xanmod1-cacule \
-		linux-image-5.12.11-xanmod1-cacule
+		linux-headers-5.12.13-xanmod1 \
+		linux-image-5.12.13-xanmod1 \
+		linux-headers-5.12.13-xanmod1-cacule \
+		linux-image-5.12.13-xanmod1-cacule
 )
 
 
