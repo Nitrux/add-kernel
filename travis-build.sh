@@ -12,6 +12,3 @@
 		"https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.4.128/amd64/linux-modules-5.4.128-0504128-generic_5.4.128-0504128.202106231347_amd64.deb"
 )
 
-
-wget -qO nru https://raw.githubusercontent.com/Nitrux/nitrux-repository-util/master/nitrux-repository-util.sh
-bash nru files/*
