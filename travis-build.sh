@@ -10,6 +10,3 @@
 		"https://linux-libre.fsfla.org/pub/linux-libre/freesh/pool/main/l/linux-5.10.46-gnu/linux-image-5.10.46-gnu_5.10.46-gnu-1.0_amd64.deb"
 )
 
-
-wget -qO nru https://raw.githubusercontent.com/Nitrux/nitrux-repository-util/master/nitrux-repository-util.sh
-bash nru files/*
