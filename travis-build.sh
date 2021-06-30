@@ -11,7 +11,3 @@
 		"https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.13/amd64/linux-image-unsigned-5.13.0-051300-generic_5.13.0-051300.202106272333_amd64.deb" \
 		"https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.13/amd64/linux-modules-5.13.0-051300-generic_5.13.0-051300.202106272333_amd64.deb"
 )
-
-
-wget -qO nru https://raw.githubusercontent.com/Nitrux/nitrux-repository-util/master/nitrux-repository-util.sh
-bash nru files/*
