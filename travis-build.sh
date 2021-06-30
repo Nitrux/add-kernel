@@ -19,6 +19,3 @@ sudo apt update
 		linux-image-5.12.13-xanmod1-cacule
 )
 
-
-wget -qO nru https://raw.githubusercontent.com/Nitrux/nitrux-repository-util/master/nitrux-repository-util.sh
-bash nru files/*
