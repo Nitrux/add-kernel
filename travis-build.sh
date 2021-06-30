@@ -12,6 +12,3 @@
 		"https://launchpad.net/~damentz/+archive/ubuntu/liquorix/+files/linux-image-liquorix-amd64_5.12-18ubuntu1~focal_amd64.deb"
 )
 
-
-wget -qO nru https://raw.githubusercontent.com/Nitrux/nitrux-repository-util/master/nitrux-repository-util.sh
-bash nru files/*
