@@ -2,7 +2,7 @@
 
 
 (
-	mkdir filesw
+	mkdir files
 	cd files
 
 	wget -q \
