@@ -12,6 +12,8 @@ sudo apt update
 	mkdir files
 	cd files
 
+	apt-cache policy linux-image-5.13*
+
 	apt download \
 		linux-headers-5.13.1-xanmod1 \
 		linux-image-5.13.1-xanmod1 \
